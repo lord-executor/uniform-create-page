@@ -1,0 +1,19 @@
+{
+  "name": "uniform-create-page",
+  "version": "1.0.0",
+  "type": "kirby-plugin",
+  "description": "Kirby CMS plugin for Uniform that allows form submissions to create Kirby pages",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lord-executor/uniform-create-page.git"
+  },
+  "keywords": [
+    "kirby"
+  ],
+  "author": "Lukas Angerer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lord-executor/uniform-create-page/issues"
+  },
+  "homepage": "https://github.com/lord-executor/uniform-create-page#readme"
+}
